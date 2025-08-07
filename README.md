@@ -20,8 +20,8 @@ A simple Gmail-based Email Bombing tool made in Python. This tool allows you to 
 ### 1. Install Python
 
 ```bash
-pkg update
-pkg install python -y
+pkg update & pkg upgrade -y
+pkg install git python -y
 ```
 2. Clone the Repository
 ```bash
