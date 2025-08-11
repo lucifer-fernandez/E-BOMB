@@ -58,11 +58,17 @@ Sending too many emails may result in the sender account being temporarily block
 
 ---
 
-👨‍💻 Author
+📧 Contact
 
-Name: Mohammad Rayhan Khan
-Facebook: https://www.facebook.com/azad.farabi.2024
-GitHub: github.com/lucifer-fernandez
+Facebook: [Mohammad Rayhan Khan](https://www.facebook.com/azad.farabi.2024)
+
+GitHub: [lucifer-fernandez](https://github.com/lucifer-fernandez)
+
+Telegram : [Md Rayhan Khan](@rayhankhan4you)
+
+Gmail: [G-mail](rayhankhan4u@gmail.com)
+
+Youtube: [Cyber Tesla](https://youtube.com/@cyber_tesla?si=cNaVnhQ1YvGzKYj3)
 
 
 ---
